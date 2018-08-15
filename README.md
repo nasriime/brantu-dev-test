@@ -34,7 +34,7 @@ Our process is simple:
 * Clone it
 * Setup React, Webpack, Express and MongoDB [hint use react-app]
 * Create The Model through Mongoose
-* Load Data to MongoDB. Use this .CSV [Link Url](http://pf.tradedoubler.com/export/export?myFeed=14684056582845810&myFormat=14684056582845810 ) 
+* Load Data to MongoDB. Use the products provided in products.json file
 * Setup a server and an **endpoint** for the search using Express/Mongoose.
 * Create a FrontEnd [Hint: Using Redux is a plus]
 * Commit When ready
